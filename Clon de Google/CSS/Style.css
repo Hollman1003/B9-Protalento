@@ -72,6 +72,10 @@ main .main-input{
     margin-bottom: 35px;
 }
 
+.Barra-Input{
+    transition: 2s;
+}
+
 main .main-input-container {   
     width: 525px;
     border-radius: 100px;

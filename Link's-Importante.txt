@@ -1,0 +1,15 @@
+VISTO EN CLASE
+clon de prueba:
+https://github.com/Tablonimus/ClonBuscador
+Enciclopedia para ver etiquetas o código: https://www.w3schools.com/tags/tag_input.asp
+Enciclopedia para ver etiquetas o código: https://developer.mozilla.org/es/docs/Web/HTML/Element/input
+Ayuda para flex: https://yoksel.github.io/flex-cheatsheet/#section-flex-wrap
+Ayuda para flex 2: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Generador de sombras y efectos:https://cssgenerator.org/border-radius-css-generator.html
+Botones bonitos y mas: https://webdesign.tutsplus.com/es/tutorials/how-to-create-different-css-hover-effects-from-scratch--cms-34222
+Gradiantes para background: https://www.eggradients.com/
+Paleta de colores: https://coolors.co/palettes/trending
+Generador de colores: https://colordesigner.io/tools
+Iconos para apps: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:menu:FILL@0;wght@400;GRAD@0;opsz@48
+Editor de imágenes: https://pinetools.com/es/desenfocar-imagen
+Quitar fondo a las imágenes: https://www.remove.bg/
