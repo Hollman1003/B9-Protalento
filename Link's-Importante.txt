@@ -13,3 +13,4 @@ Generador de colores: https://colordesigner.io/tools
 Iconos para apps: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:menu:FILL@0;wght@400;GRAD@0;opsz@48
 Editor de imágenes: https://pinetools.com/es/desenfocar-imagen
 Quitar fondo a las imágenes: https://www.remove.bg/
+Iconos: https://fontawesome.com/
